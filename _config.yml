@@ -1,0 +1,14 @@
+layout_spectrum: 0.84128472302109
+typography_spectrum: 0.2481563037727028
+color:
+  brandStrength: 0.4424181862268597
+  lightness: 0.7806179164908826
+  saturation: 0.5043336625676602
+  rhythmicContrast: 0.34769680560566485
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: live wisdom
